@@ -1,0 +1,3 @@
+USE shop;
+SELECT * FROM categories;
+SHOW DATABASES;
